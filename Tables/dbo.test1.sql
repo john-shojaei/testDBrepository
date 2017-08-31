@@ -2,7 +2,7 @@
   [SC01039] [varchar](max) NULL,
   [SC01001] [varchar](max) NULL,
   [SC01002] [varchar](max) NULL,
-  [SC01001V] [varchar](max) NULL,
+  [SC01001V] [varchar](500) NULL,
   [SC01003] [varchar](max) NULL,
   [SYCD009] [varchar](max) NULL,
   [COMPANYCD] [varchar](max) NULL,
